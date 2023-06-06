@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Obsidian
+GenericName=Obsidian
+Keywords=Notes;Note taking;Markdown;Document
+Exec=obsidian %u
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/opt/AppImage/obsidian.png
+StartupNotify=true
+
